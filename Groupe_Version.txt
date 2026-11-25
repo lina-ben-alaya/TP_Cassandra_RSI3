@@ -1,0 +1,24 @@
+﻿Datacenter: dc1
+===============
+Status=Up/Down
+|/ State=Normal/Leaving/Joining/Moving
+--  Address     Load        Tokens  Owns  Host ID                               Rack 
+UN  172.20.0.3  221.6 KiB   16      ?     08d94af1-9fe4-4d4d-845b-3f53c1250af7  rack1
+UN  172.20.0.6  119.62 KiB  16      ?     7b8c5489-7d79-4ccb-a047-380996f35d4d  rack1
+UN  172.20.0.4  238.98 KiB  16      ?     44907281-16a0-4ca0-adaf-9d9cce19a17a  rack1
+UN  172.20.0.2  231.76 KiB  16      ?     abdd6e2a-3838-4db7-918a-0c9b82550c51  rack1
+UN  172.20.0.5  114.37 KiB  16      ?     79678535-f69b-4efc-a8b1-9f88f52b666f  rack1
+
+Note: Non-system keyspaces don't have the same replication settings, effective ownership information is meaningless
+Datacenter: dc1
+===============
+Status=Up/Down
+|/ State=Normal/Leaving/Joining/Moving
+--  Address     Load        Tokens  Owns  Host ID                               Rack 
+UN  172.20.0.3  223.55 KiB  16      ?     08d94af1-9fe4-4d4d-845b-3f53c1250af7  rack1
+UN  172.20.0.6  121.69 KiB  16      ?     7b8c5489-7d79-4ccb-a047-380996f35d4d  rack1
+UN  172.20.0.4  238.98 KiB  16      ?     44907281-16a0-4ca0-adaf-9d9cce19a17a  rack1
+UN  172.20.0.2  231.76 KiB  16      ?     abdd6e2a-3838-4db7-918a-0c9b82550c51  rack1
+UN  172.20.0.5  116.44 KiB  16      ?     79678535-f69b-4efc-a8b1-9f88f52b666f  rack1
+
+Note: Non-system keyspaces don't have the same replication settings, effective ownership information is meaningless

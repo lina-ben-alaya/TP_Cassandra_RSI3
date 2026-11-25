@@ -1,0 +1,31 @@
+movie_id,titre,realisateur,annee,genre,pays,duree_min,note,entrees_milliers
+1,Dune: Part Two,Denis Villeneuve,2024,Science-fiction,USA,166,8.5,420
+2,Oppenheimer,Christopher Nolan,2023,Drame,USA,180,8.3,510
+3,Barbie,Greta Gerwig,2023,Comedie,USA,114,7.0,350
+4,Anatomy of a Fall,Justine Triet,2023,Drame,France,151,7.8,180
+5,The Boy and the Heron,Hayao Miyazaki,2023,Animation,Japan,124,7.6,220
+6,Wonka,Paul King,2023,Fantaisie,UK,116,7.1,260
+7,Poor Things,Yorgos Lanthimos,2023,Fantaisie,Ireland,141,7.9,160
+8,The Batman,Matt Reeves,2022,Action,USA,176,7.8,390
+9,Top Gun Maverick,Joseph Kosinski,2022,Action,USA,130,8.2,600
+10,Avatar The Way of Water,James Cameron,2022,Science-fiction,USA,192,7.6,740
+11,Everything Everywhere All at Once,Daniel Kwan,2022,Science-fiction,USA,139,7.8,210
+12,RRR,S S Rajamouli,2022,Action,India,187,7.9,310
+13,Elvis,Baz Luhrmann,2022,Biographie,Australia,159,7.3,190
+14,The Fabelmans,Steven Spielberg,2022,Drame,USA,151,7.5,140
+15,Black Panther Wakanda Forever,Ryan Coogler,2022,Action,USA,161,6.7,450
+16,Spider-Man Across the Spider-Verse,Joaquim Dos Santos,2023,Animation,USA,140,8.6,380
+17,Killers of the Flower Moon,Martin Scorsese,2023,Drame,USA,206,7.6,220
+18,Mission Impossible Dead Reckoning,Christopher McQuarrie,2023,Action,USA,163,7.7,300
+19,Guardians of the Galaxy Vol 3,James Gunn,2023,Science-fiction,USA,150,7.9,360
+20,The Creator,Gareth Edwards,2023,Science-fiction,USA,133,7.0,120
+21,Past Lives,Celine Song,2023,Romance,USA,105,7.9,90
+22,Wonka,Paul King,2023,Fantaisie,UK,116,7.1,260
+23,The Holdovers,Alexander Payne,2023,Comedie,USA,133,8.0,110
+24,Napoleon,Ridley Scott,2023,Historique,UK,158,6.4,210
+25,The Marvels,Nia DaCosta,2023,Action,USA,105,5.6,180
+26,The Super Mario Bros Movie,Aaron Horvath,2023,Animation,USA,92,7.0,520
+27,A Haunting in Venice,Kenneth Branagh,2023,Mystere,UK,103,6.5,140
+28,The Killer,David Fincher,2023,Thriller,USA,118,7.0,160
+29,The Iron Claw,Sean Durkin,2023,Drame,USA,132,7.7,100
+30,The Banshees of Inisherin,Martin McDonagh,2022,Comedie,Ireland,114,7.7,130

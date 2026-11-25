@@ -1,0 +1,31 @@
+movie_id,titre,realisateur,annee,genre,pays,duree_min,note,entrees_milliers
+1,Le Port des Ombres,Samir Haddad,2015,Drame,Tunisie,104,7.2,85
+2,Nuit sur Carthage,Lea Martin,2018,Thriller,France,112,6.8,410
+3,Le Dernier Train,Karim Ben Salah,2012,Drame,Tunisie,98,7.9,120
+4,Rires en Medina,Nadia Trabelsi,2020,Comedie,Tunisie,90,6.1,230
+5,Horizon Rouge,Paul Girard,2016,Action,France,128,6.5,950
+6,Les Oliviers,Amel Jaziri,2019,Drame,Tunisie,110,8.1,65
+7,Code Zero,Mark Lewis,2021,Science-fiction,USA,135,7.0,2100
+8,Sable et Silence,Hichem Mansour,2014,Drame,Tunisie,101,7.6,95
+9,La Valise Bleue,Claire Dubois,2017,Comedie,France,94,6.4,780
+10,Le Cri du Desert,Youssef Amri,2013,Aventure,Maroc,117,6.9,310
+11,Memoires d Hiver,Sophie Laurent,2022,Drame,Belgique,106,7.4,140
+12,Vitesse Max,John Carter,2019,Action,USA,124,5.9,3200
+13,La Maison du Phare,Ines Gharbi,2023,Thriller,Tunisie,99,7.1,75
+14,Les Enfants du Souk,Mehdi Kacem,2011,Drame,Algerie,108,7.8,60
+15,Mission Atlas,Lucas Petit,2018,Action,France,119,6.2,1500
+16,Le Jardin Secret,Rania Bouzid,2021,Drame,Tunisie,103,8.3,110
+17,Planete Oubliee,Anna Muller,2020,Science-fiction,Allemagne,131,7.3,890
+18,Mariage a Sousse,Walid Hamdi,2016,Comedie,Tunisie,96,6.0,260
+19,L Enquete,Thomas Bernard,2015,Policier,France,114,7.0,640
+20,Au-dela des Vagues,Salma Riahi,2022,Drame,Tunisie,107,7.7,90
+21,Le Robot Poete,Kenji Sato,2019,Animation,Japon,92,8.0,1200
+22,Frontiere,Diego Ramos,2017,Drame,Espagne,115,7.5,330
+23,Le Chat de Tunis,Leila Ferchichi,2024,Animation,Tunisie,85,7.2,180
+24,Ombres sur la Ville,Nicolas Roy,2014,Policier,Canada,109,6.7,420
+25,Le Silence des Pierres,Fethi Saidi,2010,Drame,Tunisie,112,7.4,55
+26,Operation Mirage,Chris Evans Jr,2023,Action,USA,127,6.3,2800
+27,La Lettre,Marie Lefevre,2021,Romance,France,100,6.9,520
+28,Etoiles du Sud,Aymen Chaabane,2018,Aventure,Tunisie,105,6.6,140
+29,Le Pianiste de Bizerte,Mourad Zouari,2020,Drame,Tunisie,118,8.4,150
+30,Fous Rires,Julie Moreau,2022,Comedie,France,88,5.8,960
